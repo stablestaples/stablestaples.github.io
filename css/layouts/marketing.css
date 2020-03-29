@@ -152,7 +152,7 @@ a.pure-button-primary {
 .splash {
     /* absolute center .splash within .splash-container */
     width: 80%;
-    height: 80%;
+    height: 50%;
     margin: auto;
     position: absolute;
     top: 100px; left: 0; bottom: 0; right: 0;
@@ -160,15 +160,9 @@ a.pure-button-primary {
     text-transform: uppercase;
 }
 
-.splash-body {
-    background-color: gray;
-    opacity: 0.9;
-    border: 3px solid white;
-}
 
 .splash-logo {
-    max-width: 300px;
-    width: 80%;
+    width: 100%;
     padding-top: 8px;
 }
 /* This is the main heading that appears on the blue section */
@@ -275,7 +269,7 @@ a.pure-button-primary {
     to work with */
     .splash {
         width: 50%;
-        height: 80%;
+        height: 50%;
     }
 
     .splash-head {
