@@ -152,7 +152,10 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: url('/img/common/void-deck.jpg') no-repeat center center fixed;
+    background-image: url('/img/common/void-deck.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
