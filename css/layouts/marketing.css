@@ -46,7 +46,9 @@ label {
     text-align: center;
 }
 
-
+html {
+    font-family: 'Roboto', sans-serif;
+}
 
 /*
  * -- PURE FORM STYLES --
