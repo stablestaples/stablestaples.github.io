@@ -46,10 +46,20 @@ label {
     text-align: center;
 }
 
-html {
+html, .pure-g [class*="pure-u"] {
     font-family: 'Roboto', sans-serif;
 }
 
+.thin-para {
+    width: 500px;
+    max-width: 100%;
+}
+
+.margin-center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
@@ -248,8 +258,16 @@ a.pure-button-primary {
 
 /* This is the class used for the dark-background areas. */
 .ribbon {
-    background: #2d3e50;
-    color: #aaa;
+    background: #daeaed;
+}
+
+.ribbon-header {
+    background: #eaf9fc;
+    min-height: 160px;
+}
+
+.ribbon-content {
+    background: #daeaed;
 }
 
 /* This is the class used for the footer */
