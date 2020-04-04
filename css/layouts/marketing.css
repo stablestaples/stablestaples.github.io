@@ -53,6 +53,7 @@ html, .pure-g [class*="pure-u"] {
 .thin-para {
     width: 500px;
     max-width: 100%;
+    color: black;
 }
 
 .margin-center {
