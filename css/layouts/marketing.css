@@ -211,9 +211,11 @@ a.pure-button-primary {
 
 /* This is the subheading that appears on the blue section */
 .splash-subhead {
-    color: white;
+    color: black;
     letter-spacing: 0.05em;
-    opacity: 1;
+    opacity: 0.9;
+    background-color: lightgray;
+    border-radius: 4px;
 }
 
 .progress-container {
