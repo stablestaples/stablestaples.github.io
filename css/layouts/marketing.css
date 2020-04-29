@@ -245,7 +245,7 @@ a.pure-button-primary {
 .progress {
     height: 0.5em;
     width: 100%;
-    background-color: #c9c9c9;
+    background-color: darkgrey;
     position: relative;
     border-radius: 10px;
 }
