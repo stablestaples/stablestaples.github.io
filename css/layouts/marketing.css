@@ -279,6 +279,12 @@ a.pure-button-primary {
 
 }
 
+.no-splash-content-wrapper {
+    padding-top: 16px;
+    width: 100%;
+    min-height: 12%;
+    background: white;
+}
 /* We want to give the content area some more padding */
 .content {
     padding: 1em 1em 3em;
